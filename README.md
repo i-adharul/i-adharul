@@ -28,14 +28,14 @@ Next.js, TypeScript, MongoDB, PWA/IndexedDB, Gemini API. Code is private; walkth
 
 ### More projects
 
-- [sp500-live-chart](https://github.com/i-adharul/sp500-live-chart): live S&P 500 candlestick charts over WebSocket, with Google sign-in and Gemini-powered insights (React, Express, Socket.IO).
-- [pejuang-umr](https://github.com/Group-Project-Idn/pejuang-umr): hex-board life simulation game about surviving 12 months on a Jakarta minimum wage, with AI reflections (TypeScript monorepo, group project).
-- [tiket-stays](https://github.com/i-adharul/tiket-stays): accommodation listing site with an admin CMS (React, Tailwind CSS).
+- [pejuang-umr](https://github.com/Group-Project-Idn/pejuang-umr): turn-based multiplayer board game about surviving 12 months on a Jakarta minimum wage, with a server-authoritative engine and AI reflections (TypeScript monorepo, Next.js, Three.js, Socket.IO; group project).
+- [sp500-live-chart](https://github.com/i-adharul/sp500-live-chart): live S&P 500 candlestick charts over WebSocket, with Google sign-in, a watchlist, and Gemini-powered insights (React, Express, Socket.IO, PostgreSQL).
+- [anna-101](https://github.com/Group-Project-Idn/anna-101): English practice app where two learners chat in real time, guided by a Gemini AI tutor that demos dialogues, suggests replies, and evaluates each learner (React, Express, Socket.IO, PostgreSQL; group project).
 
 ## Tech stack
 
 - **Core:** JavaScript, TypeScript, Node.js, Express, PostgreSQL, Sequelize, React, Next.js, Tailwind CSS
-- **Also used:** MongoDB, Redis, GraphQL, React Native, Jest, Supertest, Vitest, Zod, JWT, AWS EC2, Vercel, Supabase
+- **Also used:** MongoDB, Redis, GraphQL, React Native, Socket.IO, Three.js, Jest, Supertest, Vitest, Zod, JWT, Gemini API, AWS EC2, Vercel, Supabase
 - **Data background:** SQL, Python, BigQuery, Google Cloud Platform, Looker, Tableau
 
 ## Contact
