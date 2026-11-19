@@ -4,6 +4,8 @@
 
 Hacktiv8 Fullstack JavaScript Immersive graduate (Honors, 98/100), with 3+ years in data analytics, growth, and product roles at Moladin, Mekari, Paper.id, and Ruangguru. I care about the parts users never see: stock that never goes negative, data that stays isolated per company, and requests that are safe to retry.
 
+**Portfolio:** [adharul.my.id](https://www.adharul.my.id), with projects and CV in one place.
+
 ## Featured projects
 
 ### Simpul Stok: multi-tenant inventory SaaS
@@ -40,4 +42,4 @@ Next.js, TypeScript, MongoDB, PWA/IndexedDB, Gemini API. Code is private; walkth
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/adharul-imron) · [i.adharul@gmail.com](mailto:i.adharul@gmail.com) · [Data portfolio](https://i-adharul.github.io)
+[Portfolio](https://www.adharul.my.id) · [LinkedIn](https://linkedin.com/in/adharul-imron) · [i.adharul@gmail.com](mailto:i.adharul@gmail.com) · [Data portfolio](https://i-adharul.github.io)
